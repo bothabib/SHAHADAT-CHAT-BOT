@@ -1,5 +1,3 @@
----------
-
 ### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺
 
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
@@ -16,8 +14,15 @@ Assalamualaikum Everyone!
   <span> Develop By SHAHADAT SAHU</span>
 </p>
 
+_____
 
+[![License](https://img.shields.io/github/license/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues)
+[![GitHub forks](https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/network)
+[![GitHub stars](https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/shahadat-sahu/SHAHADAT-CHAT-BOT)](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/commits)
 _______
+
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
@@ -60,6 +65,23 @@ jobs:
 
 ___
 
+## HOW TO RUN THIS CHAT BOT 🚀
+
+[![Watch the Video](https://i.imgur.com/EKtftdm.png)](https://youtu.be/blg0O7IgcrA?si=vpz42AK06uIblLN9)
+
+Click the image above to watch the step-by-step tutorial on YouTube.
+
+
+## Steps to Run the Bot
+
+**Start Command**  
+   Navigate to the folder where your bot files are located:
+   ```bash
+   node Sahu.js
+```
+
+
+----
 ## 🔥 Features  
 
 **• Auto Chat**  
@@ -144,7 +166,7 @@ ___
 ### 📞 **CONTACT INFORMATION**  
 - **WhatsApp:** **[01882 333052](https://wa.me/+8801882333052)**  
 - **Facebook:** **[Facebook ID](https://facebook.com/100001039692046)**  
-- **Messenger:** **[Message](https://m.me/100001039692046)**  
+- **Messenger:** **[Message Me](https://m.me/100001039692046)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -191,15 +213,11 @@ Please do not disturb the admin unless you have a special need. Thank you!
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" alt="Star" />
-</p>
-
-<p align="center">
   <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
   <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
   <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-  <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
+  <a href="https://t.me/+7RqN73zA6aBiY2U1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
+  <a href="https://youtube.com/@scb-community"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
 **I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
